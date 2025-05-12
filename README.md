@@ -6,30 +6,42 @@
 
 
 ## How to Use This Repository
-Step 1: Understand the Data Collection
+**Step 1**: Understand the Data Collection
 Methodology: instructions.pdf
 
-Survey questionnaire: [LFS Questionarie.pdf](LFS Questionarie.pdf)
+Survey questionnaire: LFS Questionarie.pdf
 
-Step 2: Get the Raw Data
+**Step 2**: Get the Raw Data
 Download: data.xlsx
 
-Step 3: Data Cleaning Process
+**Step 3**: Data Cleaning Process
 Cleaning steps: data_cleaning.nb.html
 
 Cleaned output: cleaned_data.xlsx
 
-Step 4: Data Analysis & Visualization
+**Step 4**: Data Analysis & Visualization
 Main analysis script: data_filtering.Rmd
 
-Pre-run results: data_filtering.nb.html
+Run results: data_filtering.nb.html
 
 Required for maps: armenia.json
 
-Step 5: Hypothesis Testing & Results
-Tests performed: [Hypothesis Tests List.pdf](Hypothesis Tests List.pdf)
+**Step 5**: Hypothesis Testing & Results
+Tests performed: Hypothesis Tests List.pdf
 
-Final report: Report.pdf (contains full analysis and conclusions)
+**Final report**: Report.pdf (contains full analysis and conclusions)
+
+
+| **File**                      | **Purpose**                              |
+|--------------------------------|------------------------------------------|
+| `data.xlsx`                   | Raw dataset (original, immutable)        |
+| `cleaned_data.xlsx`           | Cleaned data (output from cleaning)      |
+| `data_cleaning.nb.html`       | Data cleaning documentation              |
+| `data_filtering.Rmd`          | Main analysis script (R Markdown)        |
+| `data_filtering.nb.html`      | Pre-run analysis output (HTML)           |
+| `armenia.json`                | Map data for visualizations              |
+| `Hypothesis Tests List.pdf`   | List of statistical tests                |
+| `Report.pdf`                  | Final report (results & conclusions)     |
 
 ## Project Overview
 We have heard a lot that in Armenia, women are paid less than men for
