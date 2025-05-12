@@ -5,10 +5,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Project Overview
-Statistical analysis of gender wage gap in the Armenian labor market with focus on gender wage disparities across different:
-- Occupations
-- Regions/Settlement areas
-- Educational levels
+We have heard a lot that in Armenia, women are paid less than men for
+the same work despite having the same education, skills, and experience. This
+is not only unfair to women as individuals, but it is a type of discrimination
+that significantly harms Armenia’s economy. But does this gap really exist? If
+so, what factors affect this? The purpose of this research is to identify if this
+problem really exists in Armenia, measure how big this wage gap is and identify
+what drives this inequality. The data is taken from the LFS in Armenia, which
+is officially accepted by the government. More about the data collection and
+consistency is provided in the next section.
+
+
 
 ## Installation & Usage
 ### Setup
