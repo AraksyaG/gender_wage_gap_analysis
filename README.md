@@ -4,6 +4,33 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
+## How to Use This Repository
+Step 1: Understand the Data Collection
+Methodology: instructions.pdf
+
+Survey questionnaire: [LFS Questionarie.pdf](LFS Questionarie.pdf)
+
+Step 2: Get the Raw Data
+Download: data.xlsx
+
+Step 3: Data Cleaning Process
+Cleaning steps: data_cleaning.nb.html
+
+Cleaned output: cleaned_data.xlsx
+
+Step 4: Data Analysis & Visualization
+Main analysis script: data_filtering.Rmd
+
+Pre-run results: data_filtering.nb.html
+
+Required for maps: armenia.json
+
+Step 5: Hypothesis Testing & Results
+Tests performed: [Hypothesis Tests List.pdf](Hypothesis Tests List.pdf)
+
+Final report: Report.pdf (contains full analysis and conclusions)
+
 ## Project Overview
 We have heard a lot that in Armenia, women are paid less than men for
 the same work despite having the same education, skills, and experience. This
